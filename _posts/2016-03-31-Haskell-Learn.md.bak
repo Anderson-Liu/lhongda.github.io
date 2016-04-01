@@ -8,7 +8,8 @@ description: Haskell趣学指南
 
 # 安装
 
-```bash
+
+```
 sudo apt-get install rhythmbox-plugins
 sudo apt-get install haskell-platform
 ```

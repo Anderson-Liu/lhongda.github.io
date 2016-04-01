@@ -1,3 +1,11 @@
+---
+layout: post
+title: Haskell趣学指南 -- 初试
+categories: [blog ]
+tags: [Haskell, Coding, ]
+description: Haskell趣学指南
+---
+
 # 安装
 
 ```bash
